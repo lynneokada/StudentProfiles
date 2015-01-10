@@ -1,0 +1,24 @@
+name: Benjamin Denis Encz
+website: //www.benjamin-encz.de
+github: Ben-G
+linkedin: //www.linkedin.com/in/benjaminencz/
+picture: profile.jpeg
+resume: resume_encz.pdf
+phone: (942)-888-888-888
+about: |
+    I have been a developer for multiple years. Like it a lot.
+    This block can be multi-line
+apps:
+  - title: MovieLoggr
+    about: App that allows you to track movies you have watched
+    preview_video_url: //player.vimeo.com/video/116390281
+    tech_talk_video_url: //player.vimeo.com/video/116390281
+    link_description: App Store Link
+    link_target: https://itunes.apple.com/us/app/movieloggr/id914426090?mt=8
+  - title: Second App
+    about: App that allows you to track movies you have watched
+works_on:
+  - title: Third App
+    about: No idea what this is!
+    preview_video_url: //player.vimeo.com/video/116390281
+    tech_talk_video_url: //player.vimeo.com/video/116390281
