@@ -1,0 +1,36 @@
+name: Lynne Okada
+website: app-works.com/lynneokada
+github: lynneokada
+linkedin: linkedin.com/pub/lynne-okada/a3/67a/79a
+picture: Lynne_picture.jpg
+resume: LynneOkada_Resume.pdf
+phone: (408)-314-2023
+about:
+  I am an iOS developer with experience in both frontend and backend.
+  I build because I want to connect people in unique, bizarre ways.
+apps:
+  - title: Stranded in Space
+    about: Tilt to live, survival game in space on the iOS
+    link_description: Appstore link
+    link_target: https://itunes.apple.com/us/app/stranded-in-space/id914320132?
+  - title: First of Them
+    about: Pebble SmartWatch game involving zombie survival
+    link_description: Pebblestore link
+    link_target: https://apps.getpebble.com/applications/53dfd081107b2280a00000fa
+working_on:
+  - title: Text After Death
+    about: Allow people to send text messages to friends and family after death.
+    link_description: Github repository
+    link_target: https://github.com/lynneokada/Text-After-Death
+  - title: Dream Share
+    about: A social platform for dreamers to post, share, and search similar dreams.
+    link_description: Github repository
+    link_target: https://github.com/lynneokada/Dream-Share
+  - title: Zombie Mob
+    about: Another Zombie game but for the iOS device.
+    link_description: Github repository
+    link_target: https://github.com/lynneokada/ZombieGame
+  - title: Reddit on Rails
+    about: A mock Reddit using Ruby on Rails
+    link_description: Github repository
+    link_tartget: https://github.com/lynneokada/Reddit-on-Rails
