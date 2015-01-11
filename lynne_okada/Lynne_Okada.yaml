@@ -7,14 +7,14 @@ resume: LynneOkada_Resume.pdf
 phone: (408)-314-2023
 about:
   I am an iOS developer with experience in both frontend and backend.
-  I build because I want to connect people in unique, bizarre ways.
+  I build because I want to connect people in unique and bizarre ways.
 apps:
   - title: Stranded in Space
-    about: Tilt to live, survival game in space on the iOS
+    about: Tilt to live, survival game in space for the iOS
     link_description: Appstore link
     link_target: https://itunes.apple.com/us/app/stranded-in-space/id914320132?
   - title: First of Them
-    about: Pebble SmartWatch game involving zombie survival
+    about: A survival zombie game for the Pebble SmartWatch
     link_description: Pebblestore link
     link_target: https://apps.getpebble.com/applications/53dfd081107b2280a00000fa
 working_on:
@@ -27,7 +27,7 @@ working_on:
     link_description: Github repository
     link_target: https://github.com/lynneokada/Dream-Share
   - title: Zombie Mob
-    about: Another Zombie game but for the iOS device.
+    about: A challenging zombie game involving multi-tasking and strategy for the iOS
     link_description: Github repository
     link_target: https://github.com/lynneokada/ZombieGame
   - title: Reddit on Rails
