@@ -1,5 +1,5 @@
 name: Lynne Okada
-website: app-works.com/lynneokada
+website: http://www.app-works.com/lynneokada
 github: lynneokada
 linkedin: linkedin.com/pub/lynne-okada/a3/67a/79a
 picture: Lynne_picture.jpg
@@ -13,10 +13,12 @@ apps:
     about: Tilt to live, survival game in space for the iOS
     link_description: Appstore link
     link_target: https://itunes.apple.com/us/app/stranded-in-space/id914320132?
+    source_code: https://github.com/mgwu-students/lynne-okada
   - title: First of Them
     about: A survival zombie game for the Pebble SmartWatch
     link_description: Pebblestore link
     link_target: https://apps.getpebble.com/applications/53dfd081107b2280a00000fa
+    source_code: https://github.com/peperodo/first-of-them
 working_on:
   - title: Text After Death
     about: Allow people to send text messages to friends and family after death.
